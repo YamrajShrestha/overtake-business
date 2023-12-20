@@ -66,3 +66,29 @@ footer p, a{
 a{
   text-decoration: none;
 }
+.about{
+  background: #055999;
+  color: #fff;
+  font-weight: bold;
+}
+.content h2, h3{
+  font-weight: bold;
+}
+.content h3{
+  text-transform: uppercase;
+}
+.content .icon{
+  font-size: 26px;
+  margin: 2px 8px 0 0;
+  color: #ffc02a;
+  background: #055999;
+  padding: 16px;
+  height: 58px;
+  display: inline-block;
+  border: 1px solid #055999;
+}
+.team h6{
+  margin-bottom: 0;
+  margin-top: 10px;
+  font-weight: bold;
+}
