@@ -43,15 +43,26 @@
   color: #055999;
   border: 1px solid #055999;
 }
-.bi-gear {
+.box i{
   font-size: 48px;
 }
-.bi-box-arrow-in-right {
-  font-size: 48px;
+.our-team{
+  background: #055999;
 }
-.bi-person {
-  font-size: 48px;
+.our-clients img{
+  width: 160px;
 }
-.bi-house-door {
-  font-size: 48px;
+footer{
+  background: #1B1B1B;
+}
+footer h6{
+  color: #fff;
+  font-weight: bold;
+}
+footer p, a{
+  color: #ccc;
+  font-size: 14px;
+}
+a{
+  text-decoration: none;
 }
