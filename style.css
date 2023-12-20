@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 .navbar-expand-lg .navbar-nav .nav-link {
   color: #055999;
   padding: 10px 20px;
@@ -14,4 +19,39 @@
 .dropdown-item:hover {
   background: #055999;
   color: #fff;
+}
+.box {
+  background: #efefef;
+  border: 1px solid #efefef;
+}
+.box:hover {
+  border: 0.5px solid #055999;
+  background-color: #fff;
+}
+.box a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 13px;
+  background: #055999;
+  padding: 7px 20px;
+  margin-top: 10px;
+  display: inline-block;
+  border: 1px solid #055999;
+}
+.box a:hover {
+  background: #fff;
+  color: #055999;
+  border: 1px solid #055999;
+}
+.bi-gear {
+  font-size: 48px;
+}
+.bi-box-arrow-in-right {
+  font-size: 48px;
+}
+.bi-person {
+  font-size: 48px;
+}
+.bi-house-door {
+  font-size: 48px;
 }
