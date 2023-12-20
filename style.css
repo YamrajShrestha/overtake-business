@@ -114,3 +114,23 @@ a{
 .service-feature h4, p{
   margin-left: 16px;
 }
+.portfolio-content p{
+  margin-left: 0;
+}
+.portfolio-content h6{
+  font-weight: bold;
+  margin-top: 16px;
+}
+.contact a{
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 13px;
+  background: #055999;
+  padding: 7px 20px;
+  margin-top: 10px;
+  display: inline-block;
+  border: 1px solid #055999;
+}
+.contact p{
+  margin-left: 0;
+}
